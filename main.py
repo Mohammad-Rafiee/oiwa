@@ -13,7 +13,7 @@ from telegram.inline.inlinekeyboardmarkup import InlineKeyboardMarkup
 
 
 DOMAIN = environ.get("DOMAIN")
-BOT_TOKEN = environ.get("BOT_TOKEN")
+BOT_TOKEN = environ.get("1983816747:AAHBbNFdIysscCm5C0SadqDyp5FWLPHOZJo")
 bot = Bot(BOT_TOKEN)
 
 app = FastAPI()
